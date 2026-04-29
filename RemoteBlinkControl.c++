@@ -1,4 +1,4 @@
-
+// This code is a simple IoT project that lets you control an LED remotely using a Telegram bot over WiFi.
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
