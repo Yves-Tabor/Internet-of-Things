@@ -7,6 +7,7 @@
 
 
 
+
 //Code for soil moisture sensor that takes input from DHT22
 // and soil moisture sensor and sends it to ThingSpeak using HTTP GET request
 #include <WiFi.h>
